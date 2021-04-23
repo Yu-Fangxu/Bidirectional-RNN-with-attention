@@ -1,1 +1,1 @@
-# Bidirectional-RNN-with-attention
+### Bidirectional-RNN-with-attention for classification task
